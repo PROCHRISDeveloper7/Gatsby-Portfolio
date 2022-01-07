@@ -28,12 +28,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'project1.png',
+    title: 'Chris' Shopping Cart App',
+    info: 'Uses React and Context for state management',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://chriswhittonshoppingcart.netlify.app/',
+    repo: 'https://github.com/PROCHRISDeveloper7/Shopping-Cart-App-master', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
