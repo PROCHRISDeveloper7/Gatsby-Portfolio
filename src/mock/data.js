@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project1.png',
-    title: 'Chris' Shopping Cart App',
+    title: 'Chris Shopping Cart App',
     info: 'Uses React and Context for state management',
     info2: '',
     url: 'https://chriswhittonshoppingcart.netlify.app/',

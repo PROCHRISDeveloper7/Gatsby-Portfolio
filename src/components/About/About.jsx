@@ -39,7 +39,8 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Returning to Web Development after several years hiatus has honestly been challenging for me. Its been very satisfying to achieve my goals and become a MERN software Engineer with a wealth of life experiences in other professions.'   </p>
+                    'Returning to Web Development after several years hiatus has honestly been challenging for me. Its been very satisfying to achieve my goals and become a MERN software Engineer with a wealth of life experiences in other professions.'}  
+                </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
                     'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
