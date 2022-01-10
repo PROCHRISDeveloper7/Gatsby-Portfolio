@@ -37,12 +37,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'chrischat.png',
+    title: 'Chris Chat Room',
+    info: 'Coded in Vanilla JS with Node Express and Websockets',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://chris-chatroom.herokuapp.com/',
+    repo: 'https://github.com/PROCHRISDeveloper7/chris-chatroom', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
