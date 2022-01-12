@@ -46,12 +46,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'chrisflix.png',
+    title: 'Chris Flix Film App',
+    info: 'A simple streamlined clone of Netflix. Uses fetch for API calls and stores your favourite films',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://chris-flix.netlify.app/',
+    repo: 'https://github.com/PROCHRISDeveloper7/chrisFlix-film-app-master', // if no repo, the button will not show up
   },
 ];
 
